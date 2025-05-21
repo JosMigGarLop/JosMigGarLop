@@ -12,8 +12,7 @@
 
 # HABILIDADES TÉCNICAS
 
-### 💻 LENGUAJES DE PROGRAMACIÓN
-Amplia experiencia en lenguajes clave para desarrollo web y aplicaciones empresariales.  
+### 💻 LENGUAJES DE PROGRAMACIÓN 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,7 +22,6 @@ Amplia experiencia en lenguajes clave para desarrollo web y aplicaciones empresa
 ---
 
 ### 🧩 FRAMEWORKS Y LIBRERÍAS
-Desarrollo frontend y backend con frameworks modernos para soluciones escalables.  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,7 +32,7 @@ Desarrollo frontend y backend con frameworks modernos para soluciones escalables
 
 ### 🛠️ PLATAFORMA RAD
 Experiencia en desarrollo rápido de aplicaciones con Oracle APEX, optimizando la creación de soluciones empresariales.  
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black)
 
 ---
 
@@ -49,10 +47,13 @@ Experiencia en desarrollo rápido de aplicaciones con Oracle APEX, optimizando l
 
 ---
 
-### 🗃️ BASES DE DATOS
+### 🛢️ BASES DE DATOS
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-4C8ECB?style=for-the-badge&logo=dbeaver&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-6A4FBC?style=for-the-badge&logo=heidisql&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -74,3 +75,4 @@ Experiencia en desarrollo rápido de aplicaciones con Oracle APEX, optimizando l
 ### 🤖 INTELIGENCIA ARTIFICIAL
 ![AI](https://img.shields.io/badge/IA-Aplicada-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompts_Avanzados-4285F4?style=for-the-badge&logo=openai&logoColor=white)
+
