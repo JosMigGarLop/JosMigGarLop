@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Soy José Miguel García López  
 
-💻 Estudiante de **Desarrollo de Aplicaciones Web** apasionado por la programación y la tecnología.  
+💻 Técnico Superior en **Desarrollo de Aplicaciones Web** apasionado por la programación y la tecnología.  
 🎯 Me especializo en desarrollo web usando **HTML, CSS, JavaScript, Angular y Spring Boot**.  
 🎮 Amante de los videojuegos y el deporte.  
 
