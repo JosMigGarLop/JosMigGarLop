@@ -1,78 +1,68 @@
-### ¡Hola! 👋 Soy José Miguel García López  
+<h1 align="center"><b>¡Hola! Soy José Miguel García López 👋</b></h1> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Técnico+Superior+en+Desarrollo+de+Aplicaciones+Web;Apasionado+por+la+programación+y+la+tecnología;Desarrollador+Full+Stack+con+Angular+y+Spring+Boot;Siempre+aprendiendo+y+mejorando+💻"> </a> </p>
+🧠 Sobre mí
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"> </picture>
 
-💻 Técnico Superior en **Desarrollo de Aplicaciones Web** apasionado por la programación y la tecnología.  
-🎯 Me especializo en desarrollo web usando **HTML, CSS, JavaScript, Angular y Spring Boot**.  
-🎮 Amante de los videojuegos y el deporte.  
+👨‍💻 Técnico Superior en Desarrollo de Aplicaciones Web
 
-📫 **Contáctame:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Miguel%20García-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-miguel-garc%C3%ADa-l%C3%B3pez-851687335/)  
-[![GitHub](https://img.shields.io/badge/GitHub-JosMigGarLop-black?style=flat&logo=github)](https://github.com/JosMigGarLop)  
+💡 Enfocado en el desarrollo Full Stack (Angular + Spring Boot)
 
----
+⚙️ Experiencia en Docker, Nginx, Jenkins y Kubernetes
 
-# HABILIDADES TÉCNICAS
+📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas
 
-### 💻 LENGUAJES DE PROGRAMACIÓN 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+🎮 Me apasionan los videojuegos, el deporte y la creación de proyectos personales
 
----
+🌐 Mi objetivo: seguir creciendo como desarrollador profesional
 
-### 🧩 FRAMEWORKS Y LIBRERÍAS
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+🚀 Tecnologías y Herramientas
+💻 Lenguajes
 
----
 
-### 🛠️ PLATAFORMA RAD
-Experiencia en desarrollo rápido de aplicaciones con Oracle APEX, optimizando la creación de soluciones empresariales.  
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black)
 
----
 
-### 🌐 DESARROLLO WEB
 
-**Frontend:**  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend:**  
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=rest&logoColor=white)
 
----
 
-### 🛢️ BASES DE DATOS
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-4C8ECB?style=for-the-badge&logo=dbeaver&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-6A4FBC?style=for-the-badge&logo=heidisql&logoColor=white)
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
 
-### 🚀 DEVOPS & DESPLIEGUE
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+🧩 Frameworks y Librerías
 
----
 
-### 🔄 CONTROL DE VERSIONES
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-### 🤖 INTELIGENCIA ARTIFICIAL
-![AI](https://img.shields.io/badge/IA-Aplicada-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompts_Avanzados-4285F4?style=for-the-badge&logo=openai&logoColor=white)
 
+
+
+
+🛠️ Herramientas y DevOps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🗄️ Bases de datos
+
+
+
+
+
+
+
+
+📊 GitHub Stats
+<div align="center"> <a href="https://github.com/JosMigGarLop"> <img src="https://github-readme-stats.vercel.app/api?username=JosMigGarLop&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=1E90FF&text_color=E0FFFF&bg_color=0,000000,001F3F" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosMigGarLop&show_icons=true&locale=es&layout=compact&line_height=20&title_color=00BFFF&icon_color=1E90FF&text_color=E0FFFF&bg_color=0,000000,001F3F" width="375" alt="JosMigGarLop"/> </a> </div>
+🤝 ¡Conectemos!
+<div align="center"> <a href="https://www.linkedin.com/in/jos%C3%A9-miguel-garc%C3%ADa-l%C3%B3pez-851687335/"> <img src="https://img.shields.io/badge/LinkedIn-José%20Miguel%20García-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/JosMigGarLop"> <img src="https://img.shields.io/badge/GitHub-JosMigGarLop-black?style=for-the-badge&logo=github"> </a> </div>
+<div align="center"> <br> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br><br> <b>“La mejor manera de predecir el futuro es programarlo.” 🚀</b> </div>
