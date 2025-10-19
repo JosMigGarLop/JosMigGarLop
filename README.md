@@ -16,7 +16,7 @@ Outside of tech, I enjoy 🎮 **playing video games**, 🏋️ **working out**, 
 
 📫 Reach me at: [josemiguel_447@hotmail.com](mailto:josemiguel_447@hotmail.com)
 
-## 💼 Projects
+##  Projects
 
 ### [MyOutfit App](https://myoutfit.alixarblue.team/)
 A full-stack web application to manage outfits, including creating, editing, and displaying them with user authentication.  
@@ -31,9 +31,9 @@ A full-stack web application to manage outfits, including creating, editing, and
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="25">
 </span>
 
-## 🚀 My Skills Include
+##  My Skills Include
 
-### 💻 Languages
+###  Languages
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -42,7 +42,7 @@ A full-stack web application to manage outfits, including creating, editing, and
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </span>
 
-### 🧩 Frameworks & Libraries
+###  Frameworks & Libraries
 <span>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
@@ -51,7 +51,7 @@ A full-stack web application to manage outfits, including creating, editing, and
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </span>
 
-### 🛠️ Tools & DevOps
+###  Tools & DevOps
 <span>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -62,41 +62,41 @@ A full-stack web application to manage outfits, including creating, editing, and
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
-### 🖥️ IDEs
+###  IDEs
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </span>
 
-### 🗄️ Databases & RAD
+###  Databases & RAD
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </span>
 
-### 🌐 Web Development
+###  Web Development
 <span>
   <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white">
 </span>
 
-### 🎨 Design & Creativity
+###  Design & Creativity
 <span>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 </span>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JosMigGarLop&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=00BFFF&icon_color=1E90FF&text_color=E0FFFF&bg_color=0,000000,001F3F" width="450" style="vertical-align: top;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosMigGarLop&show_icons=true&locale=en&layout=compact&line_height=24&title_color=00BFFF&icon_color=1E90FF&text_color=E0FFFF&bg_color=0,000000,001F3F" width="330" style="vertical-align: top;"/>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me
+## Connect with me
 <p align="center">
    <i>“Every expert was once a beginner; learning is the key to growth.”</i>
    <br>
