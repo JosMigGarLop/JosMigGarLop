@@ -5,7 +5,7 @@
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBkZjY0MzdlcHk0eHI4ZTMyNXExMHB5MDhhZml4eHF2bG54ZjBnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360px">
 </picture>
 
-I am a Junior Full Stack Web Developer passionate about creating web applications that are efficient, scalable, and user-friendly.
+I am a Full Stack Web Developer passionate about creating web applications that are efficient, scalable, and user-friendly.
 I enjoy learning and improving my skills in front-end and back-end development, always seeking new ways to turn ideas into clean and modern code.
 
 🌱 Currently learning: React  
