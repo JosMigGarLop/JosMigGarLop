@@ -14,7 +14,7 @@ I enjoy learning and improving my skills in front-end and back-end development, 
 
 Outside of tech, I enjoy 🎮 **playing video games**, 🏋️ **working out**, and exploring new ways to grow both personally and professionally.  
 
-📫 Reach me at: [josemiguel_447@hotmail.com](mailto:josemiguel_447@hotmail.com)
+📫 Reach me at: [josmgarlop@gmail.com](mailto:josemiguel_447@hotmail.com)
 
 ##  Projects
 
