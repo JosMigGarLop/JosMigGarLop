@@ -8,7 +8,7 @@
 I am a Full Stack Web Developer passionate about creating web applications that are efficient, scalable, and user-friendly.
 I enjoy learning and improving my skills in front-end and back-end development, always seeking new ways to turn ideas into clean and modern code.
 
-🌱 Currently learning: React  
+🌱 Currently learning: Phyton and React  
 👯 Looking forward to collaborating on open source projects  
 ✔ Ask me about anything, I am happy to help  
 
